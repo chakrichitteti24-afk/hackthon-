@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+backend-dev.err.log
+backend-dev.out.log
+
+# Node
+omniflow-frontend/node_modules/
+omniflow-frontend/dist/
+omniflow-frontend/.env
