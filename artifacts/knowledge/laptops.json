@@ -1,0 +1,23 @@
+[
+  {
+    "name": "MacBook Pro 16 M4 Max",
+    "brand": "Apple",
+    "price": 349000,
+    "specs": "M4 Max, 64GB RAM, 1TB SSD",
+    "category": "laptop"
+  },
+  {
+    "name": "ThinkPad X1 Carbon Gen 13",
+    "brand": "Lenovo",
+    "price": 185000,
+    "specs": "Intel Core Ultra 9, 32GB RAM, 1TB SSD",
+    "category": "laptop"
+  },
+  {
+    "name": "ROG Zephyrus G16 (2026)",
+    "brand": "ASUS",
+    "price": 210000,
+    "specs": "AMD Ryzen AI 9, RTX 5080, 32GB RAM",
+    "category": "laptop"
+  }
+]

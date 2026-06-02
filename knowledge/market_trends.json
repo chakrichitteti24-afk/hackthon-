@@ -1,0 +1,24 @@
+[
+  {
+    "year": "2026",
+    "trend": "Enterprise AI Upgrade Cycle",
+    "growth": "Critical",
+    "summary": "Global enterprises are refreshing their fleets with 2026 Copilot+ standard hardware.",
+    "brands": [
+      "Lenovo",
+      "Dell",
+      "HP"
+    ]
+  },
+  {
+    "year": "2026",
+    "trend": "Premium smartphone stagnation",
+    "growth": "Medium",
+    "summary": "Saturating hardware speeds shift buyer interest toward ecosystem integration and on-device AI assistants.",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Google"
+    ]
+  }
+]

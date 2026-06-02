@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Lenovo Legion 7i",
+    "category": "Gaming Laptop",
+    "brand": "Lenovo",
+    "segment": "Premium",
+    "recommended_for": ["Gaming", "AI Workloads", "Content Creation"],
+    "description": "A high-performance laptop series well-suited for gaming and content creators. Verify exact configuration from the product database before recommending."
+  },
+  {
+    "name": "ASUS ROG Phone",
+    "category": "Smartphone",
+    "brand": "ASUS",
+    "segment": "Gaming",
+    "recommended_for": ["Mobile Gaming", "High Refresh Rate Displays"],
+    "description": "A smartphone series focused on gaming experiences. Confirm model-specific details from the product KB."
+  }
+]

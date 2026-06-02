@@ -1,0 +1,16 @@
+[
+  {
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "price": 129900,
+    "specs": "A19 Pro, 8GB RAM, Apple Intelligence",
+    "category": "smartphone"
+  },
+  {
+    "name": "Samsung Galaxy S26 Ultra",
+    "brand": "Samsung",
+    "price": 134900,
+    "specs": "Snapdragon 8 Gen 4, 12GB RAM, Galaxy AI",
+    "category": "smartphone"
+  }
+]

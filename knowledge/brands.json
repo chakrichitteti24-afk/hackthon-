@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Samsung",
+    "category": "Mobile & Electronics",
+    "positioning": "Display tech, foldables, Galaxy AI integration",
+    "popular_series": [
+      "Galaxy S26 Series",
+      "Galaxy Z Fold Series"
+    ]
+  },
+  {
+    "name": "Apple",
+    "category": "Premium Ecosystem",
+    "positioning": "Premium ecosystem, AI-integrated chips",
+    "popular_series": [
+      "MacBook Pro Series",
+      "MacBook Air Series",
+      "iPhone 17 Series"
+    ]
+  },
+  {
+    "name": "OnePlus",
+    "category": "Mobile",
+    "positioning": "Flagship performance with value variants",
+    "popular_series": [
+      "Flagship Series",
+      "Nord Series"
+    ]
+  },
+  {
+    "name": "Xiaomi",
+    "category": "Mobile",
+    "positioning": "Value and feature-rich devices across segments",
+    "popular_series": [
+      "Mi/Flagship Series",
+      "Redmi Series",
+      "Poco Series"
+    ]
+  },
+  {
+    "name": "Realme",
+    "category": "Mobile",
+    "positioning": "Youth-focused value segment",
+    "popular_series": [
+      "Number Series",
+      "GT Series"
+    ]
+  },
+  {
+    "name": "Vivo",
+    "category": "Mobile",
+    "positioning": "Camera-forward consumer devices",
+    "popular_series": [
+      "X Series",
+      "V Series"
+    ]
+  },
+  {
+    "name": "Oppo",
+    "category": "Mobile",
+    "positioning": "Design and camera innovation",
+    "popular_series": [
+      "Find Series",
+      "Reno Series"
+    ]
+  },
+  {
+    "name": "Nothing",
+    "category": "Mobile",
+    "positioning": "Design-focused, crowd-sourced features",
+    "popular_series": [
+      "Phone Series"
+    ]
+  },
+  {
+    "name": "Google",
+    "category": "Mobile",
+    "positioning": "Stock Android and camera excellence",
+    "popular_series": [
+      "Pixel Series"
+    ]
+  },
+  {
+    "name": "Motorola",
+    "category": "Mobile",
+    "positioning": "Reliable mainstream devices",
+    "popular_series": [
+      "Edge Series",
+      "Moto G Series"
+    ]
+  },
+  {
+    "name": "ASUS",
+    "category": "Computers",
+    "positioning": "Gaming, ROG, creator laptops and graphics integration",
+    "popular_series": [
+      "ROG Series",
+      "Zenbook Series",
+      "Zephyrus Series"
+    ]
+  },
+  {
+    "name": "Honor",
+    "category": "Mobile",
+    "positioning": "Value and mid-premium segments",
+    "popular_series": [
+      "Magic Series",
+      "X Series"
+    ]
+  },
+  {
+    "name": "Huawei",
+    "category": "Mobile",
+    "positioning": "Premium hardware and imaging",
+    "popular_series": [
+      "P Series",
+      "Mate Series"
+    ]
+  },
+  {
+    "name": "Lenovo",
+    "category": "Computers",
+    "positioning": "Business laptops, ThinkPad, enterprise AI scaling",
+    "popular_series": [
+      "ThinkPad Series",
+      "Yoga Series",
+      "Legion Series"
+    ]
+  }
+]

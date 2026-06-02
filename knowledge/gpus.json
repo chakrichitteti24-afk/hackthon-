@@ -1,0 +1,461 @@
+[
+  {
+    "name": "NVIDIA RTX Series Variant 1",
+    "family": "NVIDIA RTX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA Tesla Series Variant 1",
+    "family": "NVIDIA Tesla",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon RX Series Variant 1",
+    "family": "AMD Radeon RX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon Pro Series Variant 1",
+    "family": "AMD Radeon Pro",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Intel Arc Series Variant 1",
+    "family": "Intel Arc",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Qualcomm Adreno Series Variant 1",
+    "family": "Qualcomm Adreno",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "ARM Mali Series Variant 1",
+    "family": "ARM Mali",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA RTX Series Variant 2",
+    "family": "NVIDIA RTX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA Tesla Series Variant 2",
+    "family": "NVIDIA Tesla",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon RX Series Variant 2",
+    "family": "AMD Radeon RX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon Pro Series Variant 2",
+    "family": "AMD Radeon Pro",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Intel Arc Series Variant 2",
+    "family": "Intel Arc",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Qualcomm Adreno Series Variant 2",
+    "family": "Qualcomm Adreno",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "ARM Mali Series Variant 2",
+    "family": "ARM Mali",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA RTX Series Variant 3",
+    "family": "NVIDIA RTX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA Tesla Series Variant 3",
+    "family": "NVIDIA Tesla",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon RX Series Variant 3",
+    "family": "AMD Radeon RX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon Pro Series Variant 3",
+    "family": "AMD Radeon Pro",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Intel Arc Series Variant 3",
+    "family": "Intel Arc",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Qualcomm Adreno Series Variant 3",
+    "family": "Qualcomm Adreno",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "ARM Mali Series Variant 3",
+    "family": "ARM Mali",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA RTX Series Variant 4",
+    "family": "NVIDIA RTX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA Tesla Series Variant 4",
+    "family": "NVIDIA Tesla",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon RX Series Variant 4",
+    "family": "AMD Radeon RX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon Pro Series Variant 4",
+    "family": "AMD Radeon Pro",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Intel Arc Series Variant 4",
+    "family": "Intel Arc",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Qualcomm Adreno Series Variant 4",
+    "family": "Qualcomm Adreno",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "ARM Mali Series Variant 4",
+    "family": "ARM Mali",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA RTX Series Variant 5",
+    "family": "NVIDIA RTX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA Tesla Series Variant 5",
+    "family": "NVIDIA Tesla",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon RX Series Variant 5",
+    "family": "AMD Radeon RX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon Pro Series Variant 5",
+    "family": "AMD Radeon Pro",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Intel Arc Series Variant 5",
+    "family": "Intel Arc",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Qualcomm Adreno Series Variant 5",
+    "family": "Qualcomm Adreno",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "ARM Mali Series Variant 5",
+    "family": "ARM Mali",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA RTX Series Variant 6",
+    "family": "NVIDIA RTX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA Tesla Series Variant 6",
+    "family": "NVIDIA Tesla",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon RX Series Variant 6",
+    "family": "AMD Radeon RX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon Pro Series Variant 6",
+    "family": "AMD Radeon Pro",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Intel Arc Series Variant 6",
+    "family": "Intel Arc",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Qualcomm Adreno Series Variant 6",
+    "family": "Qualcomm Adreno",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "ARM Mali Series Variant 6",
+    "family": "ARM Mali",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA RTX Series Variant 7",
+    "family": "NVIDIA RTX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA Tesla Series Variant 7",
+    "family": "NVIDIA Tesla",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon RX Series Variant 7",
+    "family": "AMD Radeon RX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "AMD Radeon Pro Series Variant 7",
+    "family": "AMD Radeon Pro",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Intel Arc Series Variant 7",
+    "family": "Intel Arc",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "Qualcomm Adreno Series Variant 7",
+    "family": "Qualcomm Adreno",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "ARM Mali Series Variant 7",
+    "family": "ARM Mali",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA RTX Series Variant 8",
+    "family": "NVIDIA RTX",
+    "recommended_for": [
+      "Graphics",
+      "AI Acceleration",
+      "Content Creation"
+    ]
+  },
+  {
+    "name": "NVIDIA GeForce RTX 5080",
+    "family": "NVIDIA RTX 5000",
+    "recommended_for": [
+      "High-end Gaming",
+      "Local AI Inference and Fine-tuning",
+      "3D Rendering"
+    ]
+  }
+]

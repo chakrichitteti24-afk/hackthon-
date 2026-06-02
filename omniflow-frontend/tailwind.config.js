@@ -4,16 +4,23 @@ export default {
   theme: {
     extend: {
       colors: {
-        bg: "#0a0a0f",
-        primary: "#00ff9f",
-        secondary: "#00d4ff",
-        alert: "#ff006e",
+        bg: "#F5F7FA",
+        sidebar: "#FFFFFF",
+        card: "#FFFFFF",
+        border: "#E5E7EB",
+        primary: "#2563EB",
+        secondary: "#14B8A6",
+        success: "#10B981",
+        warning: "#F59E0B",
+        error: "#EF4444",
+        text: "#111827",
+        muted: "#6B7280",
       },
       fontFamily: {
-        mono: ["'JetBrains Mono'", "monospace"],
+        sans: ["Inter", "system-ui", "-apple-system", "Segoe UI", "Roboto", "Helvetica Neue", "Arial"],
       },
       boxShadow: {
-        neon: "0 0 8px #00ff9f, 0 0 20px #00ff9f",
+        soft: "0 8px 24px rgba(16,24,40,0.06)",
       },
     },
   },

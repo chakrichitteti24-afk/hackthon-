@@ -1,0 +1,690 @@
+[
+  {
+    "type": "Intel Core Ultra",
+    "strengths": [
+      "High single-thread performance",
+      "Efficient AI acceleration"
+    ],
+    "recommended_usage": [
+      "Content creation",
+      "Hybrid workloads",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD Ryzen AI",
+    "strengths": [
+      "Good multi-thread throughput",
+      "AI-accelerated features"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Creator laptops",
+      "Multitasking"
+    ]
+  },
+  {
+    "type": "Apple M Series",
+    "strengths": [
+      "Excellent power efficiency",
+      "Unified memory performance"
+    ],
+    "recommended_usage": [
+      "MacOS ecosystem",
+      "Creative workloads",
+      "Mobile AI"
+    ]
+  },
+  {
+    "type": "Qualcomm Snapdragon X Elite",
+    "strengths": [
+      "On-device AI acceleration",
+      "Power efficient mobile performance"
+    ],
+    "recommended_usage": [
+      "Premium laptops",
+      "ARM-based devices",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Core Ultra Variant 1",
+    "family": "Intel Core Ultra",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Xeon Variant 1",
+    "family": "Intel Xeon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD Ryzen AI Variant 1",
+    "family": "AMD Ryzen AI",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD EPYC Variant 1",
+    "family": "AMD EPYC",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Apple M Series Variant 2",
+    "family": "Apple M Series",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Qualcomm Snapdragon Variant 2",
+    "family": "Qualcomm Snapdragon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "MediaTek Dimensity Variant 2",
+    "family": "MediaTek Dimensity",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Samsung Exynos Variant 2",
+    "family": "Samsung Exynos",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Core Ultra Variant 2",
+    "family": "Intel Core Ultra",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Xeon Variant 2",
+    "family": "Intel Xeon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD Ryzen AI Variant 2",
+    "family": "AMD Ryzen AI",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD EPYC Variant 2",
+    "family": "AMD EPYC",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Apple M Series Variant 3",
+    "family": "Apple M Series",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Qualcomm Snapdragon Variant 3",
+    "family": "Qualcomm Snapdragon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "MediaTek Dimensity Variant 3",
+    "family": "MediaTek Dimensity",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Samsung Exynos Variant 3",
+    "family": "Samsung Exynos",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Core Ultra Variant 3",
+    "family": "Intel Core Ultra",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Xeon Variant 3",
+    "family": "Intel Xeon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD Ryzen AI Variant 3",
+    "family": "AMD Ryzen AI",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD EPYC Variant 3",
+    "family": "AMD EPYC",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Apple M Series Variant 4",
+    "family": "Apple M Series",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Qualcomm Snapdragon Variant 4",
+    "family": "Qualcomm Snapdragon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "MediaTek Dimensity Variant 4",
+    "family": "MediaTek Dimensity",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Samsung Exynos Variant 4",
+    "family": "Samsung Exynos",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Core Ultra Variant 4",
+    "family": "Intel Core Ultra",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Xeon Variant 4",
+    "family": "Intel Xeon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD Ryzen AI Variant 4",
+    "family": "AMD Ryzen AI",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD EPYC Variant 4",
+    "family": "AMD EPYC",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Apple M Series Variant 5",
+    "family": "Apple M Series",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Qualcomm Snapdragon Variant 5",
+    "family": "Qualcomm Snapdragon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "MediaTek Dimensity Variant 5",
+    "family": "MediaTek Dimensity",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Samsung Exynos Variant 5",
+    "family": "Samsung Exynos",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Core Ultra Variant 5",
+    "family": "Intel Core Ultra",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Xeon Variant 5",
+    "family": "Intel Xeon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD Ryzen AI Variant 5",
+    "family": "AMD Ryzen AI",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD EPYC Variant 5",
+    "family": "AMD EPYC",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Apple M Series Variant 6",
+    "family": "Apple M Series",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Qualcomm Snapdragon Variant 6",
+    "family": "Qualcomm Snapdragon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "MediaTek Dimensity Variant 6",
+    "family": "MediaTek Dimensity",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Samsung Exynos Variant 6",
+    "family": "Samsung Exynos",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Core Ultra Variant 6",
+    "family": "Intel Core Ultra",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Intel Xeon Variant 6",
+    "family": "Intel Xeon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD Ryzen AI Variant 6",
+    "family": "AMD Ryzen AI",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "AMD EPYC Variant 6",
+    "family": "AMD EPYC",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Apple M Series Variant 7",
+    "family": "Apple M Series",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "Qualcomm Snapdragon Variant 7",
+    "family": "Qualcomm Snapdragon",
+    "strengths": [
+      "Balanced performance",
+      "Energy efficient"
+    ],
+    "recommended_usage": [
+      "Workstations",
+      "Laptops",
+      "On-device inference"
+    ]
+  },
+  {
+    "type": "M4 Max",
+    "brand": "Apple",
+    "strengths": [
+      "Neural Engine 40-core",
+      "extreme unified memory bandwidth",
+      "industry-leading AI inference"
+    ],
+    "recommended_usage": [
+      "Local AI development",
+      "heavy video editing",
+      "multimodal workload acceleration"
+    ]
+  },
+  {
+    "type": "Intel Core Ultra 9",
+    "brand": "Intel",
+    "strengths": [
+      "Dedicated Intel AI Boost NPU",
+      "high clock speeds",
+      "x86 architecture compatibility"
+    ],
+    "recommended_usage": [
+      "Copilot+ PC tasks",
+      "office productivity",
+      "general multitasking"
+    ]
+  },
+  {
+    "type": "AMD Ryzen AI 9",
+    "brand": "AMD",
+    "strengths": [
+      "XDNA 2 architecture NPU with 50+ TOPS",
+      "excellent battery efficiency",
+      "strong multi-threaded graphics"
+    ],
+    "recommended_usage": [
+      "Local LLM execution",
+      "mobile productivity",
+      "hybrid gaming workloads"
+    ]
+  }
+]

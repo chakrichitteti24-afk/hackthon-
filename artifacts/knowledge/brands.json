@@ -1,0 +1,22 @@
+[
+  {
+    "brand": "Apple",
+    "focus": "Premium ecosystem, AI-integrated chips",
+    "trust_score": 98
+  },
+  {
+    "brand": "Samsung",
+    "focus": "Display tech, foldables, Galaxy AI",
+    "trust_score": 95
+  },
+  {
+    "brand": "Lenovo",
+    "focus": "Business laptops, ThinkPad, enterprise AI",
+    "trust_score": 92
+  },
+  {
+    "brand": "ASUS",
+    "focus": "Gaming, ROG, creator laptops",
+    "trust_score": 90
+  }
+]

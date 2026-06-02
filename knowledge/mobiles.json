@@ -1,0 +1,373 @@
+[
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S Series",
+    "category": "Smartphone",
+    "segment": "Premium",
+    "recommended_for": [
+      "Photography",
+      "Flagship Performance",
+      "Content Creation"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A Series",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use",
+      "Value"
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone Series",
+    "category": "Smartphone",
+    "segment": "Premium",
+    "recommended_for": [
+      "Ecosystem",
+      "Photography",
+      "Productivity"
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Flagship / Nord Series",
+    "category": "Smartphone",
+    "segment": "Value to Premium",
+    "recommended_for": [
+      "Performance",
+      "Fast Charging",
+      "Smooth UX"
+    ]
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone Series",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Design",
+      "Unique UX"
+    ]
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel Series",
+    "category": "Smartphone",
+    "segment": "Premium",
+    "recommended_for": [
+      "Camera",
+      "Stock Android"
+    ]
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone Series",
+    "category": "Smartphone",
+    "segment": "Gaming",
+    "recommended_for": [
+      "Mobile Gaming",
+      "High Performance"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge Series",
+    "category": "Smartphone",
+    "segment": "Mid to Premium",
+    "recommended_for": [
+      "Long Battery",
+      "Balanced Performance"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Flagship Series",
+    "category": "Smartphone",
+    "segment": "Value to Flagship",
+    "recommended_for": [
+      "Value",
+      "Feature-Rich"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy F Variant 2",
+    "series": "Galaxy F",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone Variant 1",
+    "series": "iPhone",
+    "category": "Flagship Smartphone",
+    "segment": "Premium",
+    "recommended_for": [
+      "Video Creation",
+      "Productivity",
+      "Ecosystem"
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "model": "R Series Variant 4",
+    "series": "R Series",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi Variant 5",
+    "series": "Xiaomi",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel Variant 4",
+    "series": "Pixel",
+    "category": "AI Smartphone",
+    "segment": "Premium",
+    "recommended_for": [
+      "Photography",
+      "AI",
+      "Android"
+    ]
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone Variant 5",
+    "series": "Phone",
+    "category": "Smartphone",
+    "segment": "Upper Midrange",
+    "recommended_for": [
+      "Design",
+      "Android Experience"
+    ]
+  },
+  {
+    "brand": "ASUS",
+    "model": "Zenfone Variant 8",
+    "series": "Zenfone",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "model": "Razr Variant 6",
+    "series": "Razr",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Vivo",
+    "model": "Y Series Variant 6",
+    "series": "Y Series",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Oppo",
+    "model": "Find X Variant 7",
+    "series": "Find X",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy F Variant 4",
+    "series": "Galaxy F",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Number Series Variant 8",
+    "series": "Number Series",
+    "category": "Performance Smartphone",
+    "segment": "Premium",
+    "recommended_for": [
+      "Gaming",
+      "Performance",
+      "Daily Use"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Variant 8",
+    "series": "Redmi",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "ASUS",
+    "model": "Zenfone Variant 3",
+    "series": "Zenfone",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "model": "Moto G Variant 9",
+    "series": "Moto G",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Vivo",
+    "model": "X Series Variant 10",
+    "series": "X Series",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Oppo",
+    "model": "Reno Variant 10",
+    "series": "Reno",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy F Variant 6",
+    "series": "Galaxy F",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord Variant 1",
+    "series": "Nord",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "POCO Variant 1",
+    "series": "POCO",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge Variant 3",
+    "series": "Edge",
+    "category": "Smartphone",
+    "segment": "Upper Midrange",
+    "recommended_for": [
+      "Daily Use",
+      "Photography"
+    ]
+  },
+  {
+    "brand": "Vivo",
+    "model": "V Series Variant 3",
+    "series": "V Series",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Oppo",
+    "model": "A Series Variant 3",
+    "series": "A Series",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy F Variant 8",
+    "series": "Galaxy F",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy F Variant 10",
+    "series": "Galaxy F",
+    "category": "Smartphone",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 17 Pro",
+    "category": "Premium Smartphone",
+    "price": "$1,299",
+    "specs": "Apple A19 Pro chip, 8GB RAM, Apple Intelligence, 2026 release",
+    "cpu": "A19 Pro",
+    "gpu": "Apple 6-core GPU",
+    "year": "2026"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S26 Ultra",
+    "category": "Premium Smartphone",
+    "price": "$1,349",
+    "specs": "Snapdragon 8 Gen 5, 12GB RAM, Galaxy AI 2026 features, 200MP camera",
+    "cpu": "Snapdragon 8 Gen 5",
+    "gpu": "Adreno 830",
+    "year": "2026"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "trend": "NVIDIA RTX 5000 series domination",
+    "impact": "High",
+    "details": "RTX 5080 is the baseline for 2026 AI creator laptops"
+  },
+  {
+    "trend": "Integrated NPUs",
+    "impact": "High",
+    "details": "GPUs are shifting focus to unified memory architectures"
+  }
+]

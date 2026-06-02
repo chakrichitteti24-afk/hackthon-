@@ -1,0 +1,25 @@
+[
+  {
+    "year": "2026",
+    "trend": "On-device AI processing",
+    "growth": "Critical",
+    "summary": "2026 laptops require 40+ TOPS NPU for Windows Copilot+ PC certification.",
+    "brands": [
+      "Microsoft",
+      "Intel",
+      "AMD",
+      "Qualcomm"
+    ]
+  },
+  {
+    "year": "2026",
+    "trend": "Agentic Workflows",
+    "growth": "High",
+    "summary": "Automated reasoning and planning directly on hardware for real-time task orchestration.",
+    "brands": [
+      "Apple",
+      "Lenovo",
+      "ASUS"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "M4 Max",
+    "brand": "Apple",
+    "type": "ARM",
+    "features": "Neural Engine 40-core, extreme efficiency"
+  },
+  {
+    "name": "Intel Core Ultra 9",
+    "brand": "Intel",
+    "type": "x86",
+    "features": "Dedicated NPU, AI Boost"
+  },
+  {
+    "name": "AMD Ryzen AI 9",
+    "brand": "AMD",
+    "type": "x86",
+    "features": "XDNA 2 architecture for local AI"
+  }
+]

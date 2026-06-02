@@ -1,0 +1,12 @@
+[
+  {
+    "trend": "On-device AI processing",
+    "impact": "Critical",
+    "details": "2026 laptops require 40+ TOPS NPU for Windows Copilot+"
+  },
+  {
+    "trend": "Agentic Workflows",
+    "impact": "High",
+    "details": "Automated reasoning and planning directly on hardware"
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "brand": "Lenovo",
+    "model": "Legion Series",
+    "category": "Gaming Laptop",
+    "recommended_for": [
+      "Gaming",
+      "AI Workloads",
+      "Content Creation"
+    ]
+  },
+  {
+    "brand": "Lenovo",
+    "model": "LOQ Series",
+    "category": "Gaming Laptop",
+    "recommended_for": [
+      "Value Gaming",
+      "Everyday Performance"
+    ]
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Series",
+    "category": "Gaming Laptop",
+    "recommended_for": [
+      "High-End Gaming",
+      "Streaming",
+      "Creator Workflows"
+    ]
+  },
+  {
+    "brand": "ASUS",
+    "model": "TUF Series",
+    "category": "Gaming Laptop",
+    "recommended_for": [
+      "Durability",
+      "Mid-Range Gaming"
+    ]
+  },
+  {
+    "brand": "Dell",
+    "model": "XPS Series",
+    "category": "Ultrabook",
+    "recommended_for": [
+      "Productivity",
+      "Professional Use",
+      "Content Creation"
+    ]
+  },
+  {
+    "brand": "Alienware",
+    "model": "Alienware Series",
+    "category": "Gaming Laptop",
+    "recommended_for": [
+      "High-End Gaming",
+      "Custom Configurations"
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "MacBook Series",
+    "category": "Ultrabook",
+    "recommended_for": [
+      "Creative Professionals",
+      "Ecosystem Integration"
+    ]
+  },
+  {
+    "brand": "HP",
+    "model": "Omen Series",
+    "category": "Gaming Laptop",
+    "recommended_for": [
+      "Gaming",
+      "Value-Performance"
+    ]
+  },
+  {
+    "brand": "Acer",
+    "model": "Predator Series",
+    "category": "Gaming Laptop",
+    "recommended_for": [
+      "Gaming",
+      "Streaming"
+    ]
+  },
+  {
+    "brand": "MSI",
+    "model": "Gaming Series",
+    "category": "Gaming Laptop",
+    "recommended_for": [
+      "Gaming",
+      "High-TDP Workloads"
+    ]
+  },
+  {
+    "brand": "Lenovo",
+    "model": "Legion Variant 6",
+    "series": "Legion",
+    "category": "Gaming Laptop",
+    "segment": "Premium",
+    "recommended_for": [
+      "Gaming",
+      "AI Workloads",
+      "Content Creation"
+    ]
+  },
+  {
+    "brand": "ASUS",
+    "model": "TUF Variant 6",
+    "series": "TUF",
+    "category": "Gaming Laptop",
+    "segment": "Value Gaming",
+    "recommended_for": [
+      "Gaming",
+      "Students"
+    ]
+  },
+  {
+    "brand": "Dell",
+    "model": "XPS Variant 5",
+    "series": "XPS",
+    "category": "Professional Laptop",
+    "segment": "Premium",
+    "recommended_for": [
+      "Development",
+      "Business",
+      "Content Creation"
+    ]
+  },
+  {
+    "brand": "Alienware",
+    "model": "M Series Variant 6",
+    "series": "M Series",
+    "category": "Gaming Laptop",
+    "segment": "Enthusiast",
+    "recommended_for": [
+      "High-End Gaming"
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "MacBook Pro Variant 7",
+    "series": "MacBook Pro",
+    "category": "Professional Laptop",
+    "segment": "Premium",
+    "recommended_for": [
+      "Development",
+      "Video Editing",
+      "Productivity"
+    ]
+  },
+  {
+    "brand": "HP",
+    "model": "Omen Variant 8",
+    "series": "Omen",
+    "category": "Laptop",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Acer",
+    "model": "Predator Variant 1",
+    "series": "Predator",
+    "category": "Laptop",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "MSI",
+    "model": "Titan Variant 2",
+    "series": "Titan",
+    "category": "Laptop",
+    "segment": "Mid-range",
+    "recommended_for": [
+      "Everyday Use"
+    ]
+  },
+  {
+    "brand": "Lenovo",
+    "model": "Legion Variant 2",
+    "series": "Legion",
+    "category": "Gaming Laptop",
+    "segment": "Premium",
+    "recommended_for": [
+      "Gaming",
+      "AI Workloads",
+      "Content Creation"
+    ]
+  },
+  {
+    "brand": "ASUS",
+    "model": "TUF Variant 2",
+    "series": "TUF",
+    "category": "Gaming Laptop",
+    "segment": "Value Gaming",
+    "recommended_for": [
+      "Gaming",
+      "Students"
+    ]
+  },
+  {
+    "brand": "Apple",
+    "model": "MacBook Pro 16 M4 Max",
+    "category": "Premium Laptop",
+    "price": "$3,490",
+    "specs": "Apple M4 Max chip, 64GB Unified Memory, 1TB SSD, 2026 model",
+    "cpu": "M4 Max",
+    "gpu": "Apple 40-core GPU",
+    "year": "2026"
+  },
+  {
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon Gen 13",
+    "category": "Enterprise Business Laptop",
+    "price": "$1,850",
+    "specs": "Intel Core Ultra 9 285H, 32GB LPDDR5X, 1TB PCIe Gen 4 SSD, 2026 release",
+    "cpu": "Intel Core Ultra 9 285H",
+    "gpu": "Intel Arc Graphics",
+    "year": "2026"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Zephyrus G16 (2026)",
+    "category": "Gaming and Creator Laptop",
+    "price": "$2,100",
+    "specs": "AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 5080, 32GB RAM, 2026 model",
+    "cpu": "AMD Ryzen AI 9 HX 370",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "year": "2026"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "year": "2026",
+    "trend": "NVIDIA RTX 5000 series domination",
+    "growth": "High",
+    "summary": "RTX 5080/5090 Blackwell architectures are the baseline for 2026 AI creator laptops.",
+    "brands": [
+      "NVIDIA",
+      "ASUS",
+      "MSI"
+    ]
+  },
+  {
+    "year": "2026",
+    "trend": "Integrated NPUs & Unified Memory",
+    "growth": "High",
+    "summary": "On-chip memory and dedicated AI acceleration blocks reduce discrete GPU reliance for standard AI workloads.",
+    "brands": [
+      "Apple",
+      "Intel",
+      "AMD"
+    ]
+  }
+]
