@@ -120,7 +120,7 @@ class KnowledgePipeline:
                 product_matches = retrieve_products(self.retriever, query, k=top_k)
                 if product_matches:
                     # concise product_context for prompt
-                    product_context = "\n".join([f"{r.get('metadata', {}).get('name') or r.get('text','')[:140]}" for r in product_matches])
+                    product_context = "\n".join([f"{r.get('text','')}" for r in product_matches])
                     sources.append("Product Database")
                     confidence += 40
             except Exception:
@@ -139,7 +139,7 @@ class KnowledgePipeline:
             try:
                 brand_matches = retrieve_brands(self.retriever, query, k=top_k)
                 if brand_matches:
-                    brand_context = "\n".join([f"{b.get('metadata', {}).get('name') or b.get('text','')[:140]}" for b in brand_matches])
+                    brand_context = "\n".join([f"{b.get('text','')}" for b in brand_matches])
                     sources.append("Brand Database")
                     confidence += 15
             except Exception:
@@ -229,7 +229,7 @@ class KnowledgePipeline:
             try:
                 product_matches = retrieve_products(self.retriever, query, k=top_k)
                 if product_matches:
-                    product_context = "\n".join([f"{r.get('metadata', {}).get('name') or r.get('text','')[:140]}" for r in product_matches])
+                    product_context = "\n".join([f"{r.get('text','')}" for r in product_matches])
                     sources.append("Product Database")
                     confidence += 30
             except Exception:
